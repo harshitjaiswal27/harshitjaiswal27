@@ -11,7 +11,7 @@
 
 <br/>
 
-I'm a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.
+<h4>I'm a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.<h4/>
 
 
 <br/>
