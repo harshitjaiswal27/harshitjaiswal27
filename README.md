@@ -1,4 +1,4 @@
-### Hi there, I'm [Harshit!](https://harshitjaiswal27.github.io) 👋 
+### Hi there, I'm [Harshit!](https://harshitjaiswal27.github.io/Portfolio/) 👋 
 
 <p align = "center">
   
