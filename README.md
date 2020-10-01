@@ -9,10 +9,7 @@
   [![Visits Badge](https://badges.pufler.dev/visits/harshitjaiswal27/harshitjaiswal27?style=for-the-badge)](https://github.com/harshitjaiswal27/harshitjaiswal27)
 </p>
 
-<br/>
-
 <h4>I'm a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.<h4/>
-
 
 <br/>
 
