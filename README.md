@@ -6,8 +6,7 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshitjaiswal27/)
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/people/Harshit-Jaiswal/100007037250467) 
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/theharshit.me/)
-  <img src="https://gpvc.arturio.dev/harshitjaiswal27" alt="profile views"/>  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/harshitjaiswal27?style=social"/> 
+  <img src="https://gpvc.arturio.dev/harshitjaiswal27" alt="profile views"/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/harshitjaiswal27?style=social"/> 
 </p>
 
 
