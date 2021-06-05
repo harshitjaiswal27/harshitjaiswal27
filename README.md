@@ -6,7 +6,10 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshitjaiswal27/)
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/people/Harshit-Jaiswal/100007037250467) 
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/theharshit.me/)
+  <img src="https://gpvc.arturio.dev/harshitjaiswal27" alt="profile views"/>  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/harshitjaiswal27?style=social"/> 
 </p>
+
 
 <h4>I'm a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.<h4/>
 
