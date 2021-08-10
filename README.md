@@ -10,10 +10,10 @@
 </p>
 
 
-<h4>I'm a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.<h4/>
+<h4>I'm a fresh B.Tech graduate from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develop Web applications and am fond of using Javascript.<h4/>
 
 <br/>
-
+<!---
 **Languages and Tools:**  
 <p align = "left">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
@@ -29,8 +29,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
 </p>
-
-<br/>
+-->
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshitjaiswal27&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
