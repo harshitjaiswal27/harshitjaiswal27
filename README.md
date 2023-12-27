@@ -10,7 +10,7 @@
 </p>
 
 
-<h4>I'm a fresh B.Tech graduate from Walchand college of engineering, Sangli major in Computer Science & Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develop Web applications and am fond of using Javascript.<h4/>
+<h4> I'm a Full Stack Developer and Software Engineer with 2.6 years of hands-on experience, currently contributing to innovative projects at Airbus. Adept in a versatile tech stack including C#, Core Java, Angular, ASP.NET Core, and SQL. Demonstrated ability to design and implement robust solutions, coupled with a passion for staying abreast of emerging technologies. <h4/>
 
 <br/>
 <!---
